@@ -19,5 +19,5 @@ if (navigator.serviceWorker) {
  * This function displays an alert.
  */
 function myButtonClicked() {
-    alert("Hello, World!")
-  }
+  alert("Hello, World!")
+}
