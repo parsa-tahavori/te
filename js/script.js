@@ -19,5 +19,5 @@ if (navigator.serviceWorker) {
  * This function displays an alert.
  */
 function myButtonClicked() {
-  alert("Hello, World!")
+  document.getElementById("hello-world").innerHTML = "<p>Hello, World!</p>"
 }
